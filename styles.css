@@ -23,7 +23,12 @@ p span {
     color: yellow;
 }
 
-/* slector de id*/
+/* selector de id*/
 #id{
     color: orangered;
+}
+
+/*combinacion de selectores basicos*/
+span.combinar span#combinacion{
+    color: brown;
 }
