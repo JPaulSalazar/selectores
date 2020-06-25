@@ -1,9 +1,14 @@
 /* selector universal:
  *{
-    color: pink
+    color: pink;
 } */
 
 /* selector de etiqueta o tipo: */
 h1 {
-    color: olivedrab;
+    color:olivedrab;
+}
+
+/* Declaracion multiple: */
+h2, h3{
+    color: fuchsia;
 }
