@@ -12,3 +12,8 @@ h1 {
 h2, h3{
     color: fuchsia;
 }
+
+/* selector desecendiente */
+p span {
+    color: gold;
+}
